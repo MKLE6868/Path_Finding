@@ -1,4 +1,4 @@
-pygame~=2.0.1
+Pygame~=2.0.1
 matplotlib~=3.3.4
 flask
 mido
